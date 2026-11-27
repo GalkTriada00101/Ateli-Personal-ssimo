@@ -2,9 +2,9 @@
 
 Site institucional e catálogo de encomendas sob medida desenvolvido para o Ateliê Personalíssimo, permitindo que clientes conheçam as coleções, filtrem peças na galeria e solicitem agendamentos personalizados.
 
-Link de acesso para o site:
+Link de acesso para o site: (https://galktriada00101.github.io/Ateli-Personal-ssimo/)
 
-## Estrutura de Pastas:
+## Estrutura de Pastas: 
 
 atelie-personalissimo/
 ├── index.html          # Página inicial, categorias e seção Sobre
